@@ -59,3 +59,16 @@ https://s3.zplayer.live/hls/5fxc32gzw6nufvsa6kiu7rws4mdp5gk2ggo7u26mft7tykewpepb
 
 #EXTINF:1 , ALIEN VS PREDATOR
 https://s3.zplayer.live/hls/5fxcssxow6nufvsa6kpu7aoqvdemdvt2eesbk4avcwh3xmvsjd4qn5rf3vba/index-v1-a1.m3u8
+
+
+#EXTINF: 1 , súper mascotas
+https://ok6-7.vkuser.net/expires/1661900426842/srcIp/177.53.152.186/srcAg/CHROME_ANDROID/ms/95.142.206.134/type/5/sig/mGDHHiViP9A/ct/8/urls/45.136.22.42%3B45.136.20.50/clientType/0/zs/43/id/2971503692464/video/
+
+#EXTINF: 1 , Terminator
+https://delivery-node-ibtihaj.voe-network.net/hls/6oarn4uy5u23cszcr3vm5n3xud6sahysyas6w7v3ulmexlncgcdtdlnhjsba/index-v1-a1.m3u8
+
+#EXTINF: 1 , El exorcista
+https://delivery-node-ghannam.voe-network.net/hls/6oarmz4z5u23cszcr3y45kz65mzmxwr5awdr5lv3nol6mr2jzjiwhg2gfpha/index-v1-a1.m3u8
+
+#EXTINF:-1 , Star Channel
+https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
