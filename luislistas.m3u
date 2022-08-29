@@ -1,0 +1,32 @@
+# mylist
+#EXTM3U
+
+#EXTINF:1 ,ESPN2
+https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
+
+#EXTINF:-1 ,ESPN
+https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
+
+#EXTINF:-1 ,FOX SPORT 2
+https://wisp.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
+
+
+#EXTINF:-1 ,GOL PERU
+https://2200.janjua.pw:8088/adfree/gopru1/playlist.m3u8?vidictid=192334997973&id=108019&pk=1c889ef9f1eb1be62c26e3886b114dbe72a05442b1088c2c275ad9bd46b871b7
+
+
+#EXTINF:-1 ,TNT
+https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
+
+
+#EXTINF:1 ,LA ERA DE HIELO 2
+https://s3.zplayer.live/hls/,5fxctjwhw6nufvsa6kuu7q6rurxzsbpi3zfbm4avcghp7vlja7lf2cwqj6za,.urlset/master.m3u8
+
+
+#EXTINF:1 , LOS MINIOS(2022)
+https://s6.fastream.to/hls/cawdalrlxkfhjaemkwumztp4on2ox37rb6oiwnufj,dxeqfh3mxfclb7wzjia,iveqfh3mxfg3nih7phq,tjesfh3mxfd3qpuoiwq,.urlset/master.m3u8
+
+
+
+
+
