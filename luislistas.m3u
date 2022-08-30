@@ -68,7 +68,8 @@ https://delivery-node-ibtihaj.voe-network.net/hls/6oarn4uy5u23cszcr3vm5n3xud6sah
 #EXTINF:1 , El exorcista
 https://delivery-node-ghannam.voe-network.net/hls/6oarmz4z5u23cszcr3y45kz65mzmxwr5awdr5lv3nol6mr2jzjiwhg2gfpha/index-v1-a1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hHaTdZk.png" group-title="TERROR", El conjuro https://www432.ff-01.com/token=JfQ0aEW41KXD6WQ6YOaq-g/1661832438/177.53.0.0/153/b/4e/c830cf9d2ce630d64f07abb5079714eb-1080p.m
+#EXTINF:1 , tvg-logo="https://i.imgur.com/hHaTdZk.png" group-title="TERROR", El conjuro 
+https://www432.ff-01.com/token=JfQ0aEW41KXD6WQ6YOaq-g/1661832438/177.53.0.0/153/b/4e/c830cf9d2ce630d64f07abb5079714eb-1080p.m
 
 #EXTINF:1 , shrek
 https://www354.ff-01.com/token=rzpSqKHOFthcrSC7Ih5zfQ/1661832659/177.53.0.0/71/5/84/2f9859b8f0e4c790d322860efa8b8845-1080p.mp4
