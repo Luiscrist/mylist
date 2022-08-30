@@ -44,9 +44,6 @@ https://wisp.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
 #EXTINF:-1 , COMEDY CENTRAL 
 https://wisp.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
 
-#EXTINF:-1 , PARAMOUNT 
-https://wisp.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
-
 #EXTINF:-1 , CINE CANAL
 https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal.m3u8
 
@@ -80,3 +77,14 @@ https://wisp.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
 #EXTINF:-1 , HBO 2
 https://wisp.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
 
+#EXTINF:-1 , STUDIO UNIVERSAL
+https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
+
+#EXTINF:-1 , SPACE
+https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space.m3u8
+
+#EXTINF:-1 , TNT SERIES
+https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries.m3u8
+
+#EXTINF:-1 , CINE MAX
+https://wisp.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
