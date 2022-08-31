@@ -20,68 +20,69 @@ https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
 #EXTINF:-1 ,Fox
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
 
-#EXTINF:-1 , Star Channel
+#EXTINF:-1 ,Star Channel
 https://cvi.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
 
-#EXTINF:-1, UNIVERSAL 
+#EXTINF:-1 ,UNIVERSAL 
 https://wisp.cdn.rcs.net.ar/mnp/universal_hls/playlist.m3u8
 
-#EXTINF:-1 , ANIMAL PLANET
+#EXTINF:-1 ,ANIMAL PLANET
 https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
 
-#EXTINF:-1 , SIMPSON 24/7
+#EXTINF:-1 ,SIMPSON 24/7
 https://srv5.zcast.com.br/simpsons/simpsons/playlist.m3u8
 
-#EXTINF:-1 , EL CHAVO 24/7
+#EXTINF:-1 ,EL CHAVO 24/7
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/playlist.m3u8
 
-#EXTINF:-1 , FX
+#EXTINF:-1 ,FX
 https://wisp.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
 
-#EXTINF:-1 ,  FXM
+#EXTINF:-1 ,FXM
 https://wisp.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
 
-#EXTINF:-1 , COMEDY CENTRAL 
+#EXTINF:-1 ,COMEDY CENTRAL 
 https://wisp.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
 
-#EXTINF:-1 , CINE CANAL
+#EXTINF:-1 ,CINE CANAL
 https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal.m3u8
 
-#EXTINF:-1 , WB TV
+#EXTINF:-1 ,WB TV
 https://wisp.cdn.rcs.net.ar/mnp/warner_hls/playlist.m3u8
 
-#EXTINF:-1 , AMC
+#EXTINF:-1 ,AMC
 https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/AMC/SA_HLS/AMC.m3u8
 
-#EXTINF:-1 , DISCOVERY KIDS
+#EXTINF:-1 ,DISCOVERY KIDS
 https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8
 
-#EXTINF:-1 , BOOMERANG 
+#EXTINF:-1 ,BOOMERANG 
 https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Boomerang/SA_HLS/Boomerang.m3u80/clientType/0/zs/43/id/2971503692464/video/
 
-#EXTINF:-1 , DISNEY CHANNEL
+#EXTINF:-1 ,DISNEY CHANNEL
 https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Disney_Channel/SA_HLS/Disney_Channel.m3u8
 
-#EXTINF:-1 , CARTOON NETWORK 
+#EXTINF:-1 ,CARTOON NETWORK 
 https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
 
-#EXTINF:-1 , nick
+#EXTINF:-1 ,nick
 https://wisp.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
 
-#EXTINF:-1 , HBO
+#EXTINF:-1 ,HBO
 https://wisp.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
 
-#EXTINF:-1 , HBO 2
+#EXTINF:-1 ,HBO 2
 https://wisp.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
 
-#EXTINF:-1 , STUDIO UNIVERSAL
+#EXTINF:-1 ,STUDIO UNIVERSAL
 https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
 
-#EXTINF:-1 , SPACE
+#EXTINF:-1 ,SPACE
 https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space.m3u8
 
-#EXTINF:-1 , TNT SERIES
+#EXTINF:-1 ,TNT SERIES
 https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries.m3u8
 
-#EXTINF:-1 , CINE MAX
+#EXTINF:-1 ,CINE MAX
 https://wisp.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
+
