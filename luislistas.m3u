@@ -2,13 +2,15 @@
 
 #EXTM3U
 
-#EXTINF:-1 ,ESPN2
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZtXFXmVpy7tt_f4Gng30n5tWcY3_WsyU8ow&usqp=CAU.png" tvg-name="ESPN2"  group-title="DEPORTES",ESPN2
 https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
 
-#EXTINF:-1 ,ESPN
+
+#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH5GklkaKxYtvuEIl_t8V19hoLfRoNWV3cAg&usqp=CAU.jpg" tvg-name="ESPN"  group-title="DEPORTES",ESPN
 https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 
-#EXTINF:-1 ,FOX SPORT 2
+
+#EXTINF:-1, tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Fox_Sports_2_%282015%29_%282%29.png/revision/latest/scale-to-width-down/300?cb=20210304165151&path-prefix=es.png" tvg-name="FOXSPORT2"  group-title="DEPORTES",FOX SPORT 2
 https://wisp.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
 
 #EXTINF:-1 ,GOL PERU
