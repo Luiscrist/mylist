@@ -44,7 +44,7 @@ https://wisp.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
 #EXTINF:-1 ,COMEDY CENTRAL 
 https://wisp.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
 
-#EXTINF:-1 , audio-track="spa",CINE CANAL
+#EXTINF:-1 audio-track="spa",CINE CANAL
 https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal.m3u8
 
 #EXTINF:-1 ,WB TV
