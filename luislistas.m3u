@@ -88,3 +88,9 @@ https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries.m3u
 
 #EXTINF:-1 , CINE MAX
 https://wisp.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
+
+#EXTINF:-1 , WONDERWOMAN
+http://192.168.2.38:4445/Mujer+Maravilla.mkv
+
+#EXTINF:-1 , EL CONJURO 2
+http://192.168.2.38:4445/El+Conjuro+2.mkv
