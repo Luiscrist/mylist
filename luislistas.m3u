@@ -86,5 +86,6 @@ https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries.m3u
 #EXTINF:-1 ,CINE MAX
 https://wisp.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
 
-#EXTINF:0 ,DEPREDADOR
-https://www1636.ff-04.com/token=mMvPvP7W6VCvT1zA1_euNg/1662095516/177.53.0.0/125/7/d7/c6fb86f3d5b9ce3b1996d993ff0b6d77-1080p.mp4
+#EXTINF:0, tvg-name="twd2"  group-title="Movies",twd2
+https://www2229.ff-05.com/token=HWmTizO4f0_UxE9ex_9jEg/1666660382/177.53.0.0/8/7/48/311a0051710c801a28318f233d100487-720p.mp4
+
