@@ -85,7 +85,3 @@ https://wisp.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries.m3u
 
 #EXTINF:-1 ,CINE MAX
 https://wisp.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
-
-#EXTINF:0, tvg-name="twd2"  group-title="Movies",twd2
-https://www2229.ff-05.com/token=HWmTizO4f0_UxE9ex_9jEg/1666660382/177.53.0.0/8/7/48/311a0051710c801a28318f233d100487-720p.mp4
-
